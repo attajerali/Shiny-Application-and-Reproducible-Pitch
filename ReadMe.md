@@ -5,3 +5,7 @@ Using the data provided by Galton Families dataset, we fit a linear model to pre
 ## URL of my application
 
 https://attajerali.shinyapps.io/Shiny-application-project/
+
+## URL of my Reproducible-Pitch
+
+https://rpubs.com/aliattajer/629663
